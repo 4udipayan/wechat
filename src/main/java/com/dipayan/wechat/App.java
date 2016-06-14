@@ -2,7 +2,7 @@ package com.dipayan.wechat;
 
 import org.springframework.boot.SpringApplication;
 /**
- * Wechat application
+ * Wechat application for chatting 
  */
 public class App 
 {
