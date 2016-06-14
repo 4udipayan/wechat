@@ -1,8 +1,7 @@
 package com.dipayan.wechat;
 
 /**
- * Hello world!
- *
+ * Wechat application
  */
 public class App 
 {
