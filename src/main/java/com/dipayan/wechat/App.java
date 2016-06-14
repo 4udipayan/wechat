@@ -1,5 +1,6 @@
 package com.dipayan.wechat;
 
+import org.springframework.boot.SpringApplication;
 /**
  * Wechat application
  */
